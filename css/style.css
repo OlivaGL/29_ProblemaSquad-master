@@ -1,13 +1,28 @@
 .fmenu{
 	background-color: #1D0048;
 }
-.fondo{
-	background-image: url("../img/fondo.jpg");
+.frosa{
+	background-image: url('../img/fondo.jpg');
 }
 h1{
 	color: white;
-	display: 
+	padding-bottom: 3%;
 }
 a{
 	color: #bd538d;
+}
+.nosotras{
+	width: 100%;
+}
+.pd{
+	padding-right: 5%;
+	padding-left: 5%;
+}
+.mrg{
+	margin-bottom: 3%;
+}
+.texto{
+	padding-top: 8%;
+	line-height: 2;
+	font-size: 15px;
 }
