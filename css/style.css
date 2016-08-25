@@ -1,6 +1,13 @@
-.fondonegro{
-	background-color: black;
+.fmenu{
+	background-color: #1D0048;
 }
 .fondo{
 	background-image: url("../img/fondo.jpg");
+}
+h1{
+	color: white;
+	display: 
+}
+a{
+	color: #bd538d;
 }
