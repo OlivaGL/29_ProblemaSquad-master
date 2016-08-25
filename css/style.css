@@ -11,7 +11,7 @@ h1{
 a{
 	color: #bd538d;
 }
-.nosotras{
+img{
 	width: 100%;
 }
 .pd{
@@ -50,4 +50,17 @@ h2{
 }
 .azulhr{
 	color: #00C0E0;
+}
+.img4{
+	height: 50%;
+}
+.mrgch{
+	margin-bottom: 5%;
+	margin-top: 10%;
+}
+.fazul{
+	background-color: #20124D;
+}
+.fazulcla{
+	background-color: #CFE2F3;
 }
